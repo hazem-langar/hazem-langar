@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Infrastructure-cloud-devops](https://github.com/hazem-langar/infrastructure-cloud-devops/tree/hazem)
 
-- 🌱 I’m currently learning **I’m currently learning cloud computing and DevOps, and I’m looking to integrate automation and AI into my work.**
+- 🌱 I’m currently learning ** cloud computing and DevOps, and I’m looking to integrate automation and AI into my work.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hazem-langar?tab=repositories](https://github.com/hazem-langar?tab=repositories)
 
@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazemll&show_icons=true&locale=en" alt="hazemll" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazemll&" alt="hazemll" /></p>
+
 
 <!--
 **hazem-langar/hazem-langar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
